@@ -29,6 +29,3 @@ Real şirkət məlumatları istifadə edilməmişdir.
 ## Fayllar
 - `Satis_Muqayise_Hesabati.pbix` – Power BI hesabat faylı
 - `screenshots/` – Dashboard görüntüləri
-
-## 📂 Fayllar
-- `Satis_Muqayise_Hesabati.pbix` – Power BI hesabat faylı
