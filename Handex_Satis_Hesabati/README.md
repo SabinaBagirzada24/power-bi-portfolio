@@ -1,8 +1,8 @@
 # Handex – Satış Hesabatı (Power BI)
 
 ## Layihə haqqında
-Bu layihə Power BI üzrə tədris prosesi çərçivəsində,
-biznes ssenarisi əsasında təqdim olunmuş dataset üzərində hazırlanmışdır.
+Layihə **tədris məqsədilə** kurs çərçivəsində təqdim edilmiş **xarici dataset** üzərində qurulmuşdur 
+və real şirkət məlumatlarını əks etdirmir.
 Məqsəd satış məlumatlarının analizi, vizuallaşdırılması və
 interaktiv hesabatların qurulması bacarıqlarını inkişaf etdirməkdir.
 
@@ -25,9 +25,6 @@ interaktiv hesabatların qurulması bacarıqlarını inkişaf etdirməkdir.
 - DAX
 - Data Modeling
 - Interactive Navigation
-
-## Qeyd
-Bu hesabat tədris məqsədlidir və real şirkət məlumatlarını əks etdirmir.
 
 ## Fayllar
 - `Handex_Satis_Hesabati.pbix` – Power BI hesabat faylı
