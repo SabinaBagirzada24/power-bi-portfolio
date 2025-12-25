@@ -14,5 +14,5 @@ Dataset **simulyasiya edilmiş satış və əməliyyat məlumatlarından** ibar�
 Real şirkət məlumatları istifadə edilməmişdir.
 
 ## Fayllar
-- `amazon_churn_analizi.pbix` – Power BI dashboard faylı
+- `churn_analizi.pbix` – Power BI dashboard faylı
 - `screenshots/` – Dashboard görüntüləri
