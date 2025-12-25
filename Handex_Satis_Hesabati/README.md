@@ -14,17 +14,21 @@ interaktiv hesabatların qurulması bacarıqlarını inkişaf etdirməkdir.
 - Müştəri və Satıcı Analizi
 - Satış Analizi
 
-## Əldə edilən bacarıqlar
-- Power BI report design
-- Data modeling və relationship qurulması
-- DAX ölçüləri (KPI, faiz, müqayisə)
-- Drill-through və səhifələrarası naviqasiya
-- Filtrlər və slicer-lər ilə interaktiv analiz
+## Əsas imkanlar
+- Drill-through və səhifələrarası keçid
+- Dinamik filtrlər
+- KPI və performans göstəriciləri
+- Vizual müqayisələr
 
-## İstifadə olunan alətlər
-- Power BI Desktop
+## İstifadə olunan texnologiyalar
+- Power BI
 - DAX
-- Data visualization best practices
+- Data Modeling
+- Interactive Navigation
 
 ## Qeyd
 Bu hesabat tədris məqsədlidir və real şirkət məlumatlarını əks etdirmir.
+
+## Fayllar
+- `Handex_Satis_Hesabati.pbix` – Power BI hesabat faylı
+- `screenshots/` – Dashboard görüntüləri
