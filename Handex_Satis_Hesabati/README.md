@@ -2,7 +2,7 @@
 
 ## Layihə haqqında
 Bu layihə Power BI üzrə tədris prosesi çərçivəsində,
-real biznes ssenarisi əsasında təqdim olunmuş dataset üzərində hazırlanmışdır.
+biznes ssenarisi əsasında təqdim olunmuş dataset üzərində hazırlanmışdır.
 Məqsəd satış məlumatlarının analizi, vizuallaşdırılması və
 interaktiv hesabatların qurulması bacarıqlarını inkişaf etdirməkdir.
 
