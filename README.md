@@ -1,7 +1,7 @@
 # power-bi-portfolio
 Power BI dashboards
 
-## Power BI Dashboard Portfolio
+## Power BI Portfolio
 
 Bu repository kurs zamanı hazırladığım Power BI dashboard layihələrini əhatə edir.
 Layihələr müxtəlif datasetlər üzərində aparılmış analizləri və vizual hesabatları göstərir.
