@@ -21,5 +21,4 @@ Layihələr müxtəlif datasetlər üzərində aparılmış analizləri və vizu
 Hər bir qovluq ayrıca bir Power BI dashboard layihəsidir və .pbix faylını ehtiva edir.
 
 ## Məqsəd
-
-Bu portfolio Power BI üzrə praktiki bacarıqlarımı göstərmək və data analitika sahəsində inkişafımı nümayiş etdirmək üçün hazırlanıb.
+Bu portfolio Power BI üzrə praktiki bacarıqlarımı nümayiş etdirmək üçün hazırlanıb.
