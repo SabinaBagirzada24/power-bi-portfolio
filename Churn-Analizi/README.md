@@ -1,8 +1,8 @@
 # Churn-Analizi (Power BI)
 
 ## Layihənin məqsədi
-Bu hesabatın məqsədi müştəri axınına dair əsas rəqəmləri təqdim etməkdir.
-Məqsəd, ümumi churn səviyyəsini tez və aydın şəkildə göstərməkdir.
+Bu hesabatın məqsədi müştəri axınına dair əsas rəqəmləri təqdim etmək,
+ümumi churn səviyyəsini tez və aydın şəkildə göstərməkdir.
 
 ## İstifadə olunan alətlər
 - Power BI
