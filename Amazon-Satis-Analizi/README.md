@@ -15,7 +15,7 @@ Layihə **tədris məqsədilə** kurs çərçivəsində təqdim edilmiş **xaric
 - **Stok Analizi** – məhsul və stok vəziyyəti
 - **Churn Analizi** – müştəri itkisi göstəriciləri
 
-## 🛠 İstifadə olunan alətlər
+## İstifadə olunan alətlər
 - Power BI
 - Power Query
 - DAX
